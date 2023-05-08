@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x6TLyRlOjFijBsrqRjJBhCieXWf5ZbK8OOr5ha8aAMI=",
+  "Source": "todolistapi",
+  "BasePath": "_content/todolistapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
